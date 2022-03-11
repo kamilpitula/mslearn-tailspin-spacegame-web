@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/kamilpitula0811/Space%20Game%20web%20%20PipeLine/_apis/build/status/kamilpitula.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/kamilpitula0811/Space%20Game%20web%20%20PipeLine/_build/latest?definitionId=1&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
